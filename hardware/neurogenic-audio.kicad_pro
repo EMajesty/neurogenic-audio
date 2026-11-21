@@ -412,6 +412,34 @@
     [
       "2d66d2b1-816a-4b70-9a55-6833e57a85fc",
       "Root"
+    ],
+    [
+      "86050f76-8f97-4751-a8a2-bbd1d9e55410",
+      "01_POWER"
+    ],
+    [
+      "97b55dbb-7eaf-447c-9815-3d720c2fa32c",
+      "02_USB_TDM"
+    ],
+    [
+      "6d6770b4-d4c0-45da-b9d8-0cfbdcd0da45",
+      "03_CODEC_CONTROL"
+    ],
+    [
+      "6ed75786-7dad-4fc9-871d-f9ec221099dc",
+      "04_ADC_INPUT"
+    ],
+    [
+      "239077ed-cddc-4f90-96ef-69624b50d5af",
+      "05_DAC_LINE"
+    ],
+    [
+      "2cf6c3cb-cc0a-4ce9-8060-7d41cf874f00",
+      "06_HEADPHONES"
+    ],
+    [
+      "bbe1ef70-7657-4985-8f70-adcec3d730f8",
+      "07_CONNECTORS"
     ]
   ],
   "text_variables": {}
